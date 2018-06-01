@@ -87,8 +87,8 @@ RCT_EXPORT_MODULE();
                                 @"loadingLabelText": @"Processing assets...",
                                 @"mediaType": @"any",
                                 @"showsSelectedCount": @YES,
-                                @"cropperCancelText": @"Cancel",
-                                @"cropperChooseText": @"Choose"
+                                @"cropperCancelText": @"取消",
+                                @"cropperChooseText": @"选择"
                                 };
         self.compression = [[Compression alloc] init];
     }
